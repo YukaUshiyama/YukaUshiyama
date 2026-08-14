@@ -1,16 +1,21 @@
-## Hi there 👋
+# はじめまして　牛山由香です◎
 
-<!--
-**YukaUshiyama/YukaUshiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+COACHTECH でWeb開発を学習中のエンジニア志望です。
+現在販売小売接客業をしながら学習中の身ですが、普段自分がふと使っているようなWebサービスを自分で作れるようになりたいなと考え日々学習に取り組んでいます！
 
-Here are some ideas to get you started:
+## 今まで学習してきた技術
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **バックエンド**: PHP / Laravel
+- **フロントエンド**: HTML5 / CSS / Blade
+- **データベース**: MySQL
+- **その他**: Docker / Git・GitHub
+
+## 学習成果物
+
+演習問題と記載のあるものは学習中に教材に沿って作った学習成果物です。
+それぞれのREADMEファイルにその単元で学習したことの要点や自分が見落としやすかった注意点などをまとめ、わからなくなったことがあっても要点だけ見返して最速で振り返れるように学習に取り組んでいます◎
+
+## 挑戦したいこと
+
+まずは副業として継続的にお仕事に携われるようになっていきたいと考えていますが、将来的にはフリーランスエンジニアとしてさまざまなWebアプリの開発に参加させていただきたいので継続してWeb開発に使用される技術への理解を深めていきたいと思っております◎
+
